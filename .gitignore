@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.env/
+.venv/
+ENV/
+
+# Jupyter/Streamlit
+.ipynb_checkpoints/
+.streamlit/
+.streamlit/secrets.toml
+
+# Logs
+*.log
+logs/
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Build / Dist
+build/
+dist/
+*.egg-info/
+
+# Cache
+*.cache/
+.cache/
+__pypackages__/
+
+# Secrets
+*.env
+.env
+.token
+
+# PDFs and large data (optional - adjust as needed)
+# *.pdf
+# data/
